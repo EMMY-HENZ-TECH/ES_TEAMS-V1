@@ -1,5 +1,5 @@
 {
-  "name": "ES TEAMS",
+  "name": "Esteam",
   "version": "1.1.0",
   "description": "Bot WhatsApp Using Lib Baileys Multi Device",
   "main": "start.js",
@@ -8,9 +8,9 @@
     "start": "node start.js"              
   },
   "keywords": [
-    "Whatsapp Bot by Es Teams"
+    "Whatsapp Bot by Esteams"
   ],
-  "author": "ES TEAMS",
+  "author": "Esteam",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys" : "latest",
